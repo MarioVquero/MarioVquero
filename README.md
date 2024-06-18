@@ -6,9 +6,9 @@
 My name is Mario V I am a Full Stack Web Developer (focusing on backend) and a Unity 2d and 3D Game Developer
 ### currently working on:
 
-* portfolio site to show games and other projects
+* Game Engine using C++ and C
 * [Goofy Racers](https://github.com/RandomMexican/Goofy-Racers) on Ursina
-* Unity Fishing game I havent made a title for yet
+* UFG, Unity Game where players compete to capture the opponents flag
 
 
 ## 📖 Skills
@@ -54,7 +54,7 @@ My name is Mario V I am a Full Stack Web Developer (focusing on backend) and a U
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://github.com/RandomMexican/marios-website)
+[![Temp portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://randommexican.github.io/marios-website/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mario-vaquero-8a5903237/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mvaquero143@gmail.com)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/1asIkx-kD4_5fTLjddDOXfhWItdfWWUV95mv_toU5Omk/edit?usp=sharing)
