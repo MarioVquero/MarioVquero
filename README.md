@@ -6,11 +6,16 @@
 My name is Mario V I am a Full Stack Web Developer (focusing on backend) and a Unity 2d and 3D Game Developer
 ### currently working on:
 
-* Game Engine using C++ and C
+Started
 * [Goofy Racers](https://github.com/RandomMexican/Goofy-Racers) on Ursina
 * [UFG](https://github.com/RandomMexican/FightingGameTEST), Unity Game where players compete to capture the opponents flag
 * [StoreAPI](https://github.com/RandomMexican/StoreAPI), project using a tutorial about Node.js
-* Datastructures and Algorithms GUI showcase, GUI showing and explaining some datastructures and algorithms
+
+Planned
+
+* Datastructures and Algorithms GUI showcase, Planned to be interactable
+* Game Engine using C++ and C
+* Video Game mods
 
 
 ## 📖 Skills
