@@ -68,9 +68,9 @@ Planned
 
 
 ## 📈 Fun stats
-![stats](https://github-readme-stats.vercel.app/api?username=RandomMexican&theme=blue-green)
+![stats](https://github-readme-stats.vercel.app/api?username=MarioVquero&theme=blue-green)
 
-![morestats](	https://github-readme-stats.vercel.app/api/top-langs/?username=RandomMexican&theme=blue-green)
+![morestats](	https://github-readme-stats.vercel.app/api/top-langs/?username=MarioVquero&theme=blue-green)
 
 ## 👨‍💻 IDE's I use
 
