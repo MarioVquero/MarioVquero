@@ -1,10 +1,13 @@
 
 ### Hello world 👋
 
+[MainSite](https://mariovquero.github.io/marios-website/)
+
 ## 👨‍💻 About Me
 
-My name is Mario V I am a Full Stack Web Developer (focusing on backend) and a Unity 2d and 3D Game Developer
-### currently working on:
+My name is Mario V I am a Full Stack Web Developer (focusing on backend) with a background in Unity 2d and 3D Game Developer
+
+### I'm currently working on:
 
 Started
 * [Goofy Racers](https://github.com/RandomMexican/Goofy-Racers) on Ursina
