@@ -13,10 +13,10 @@ Started
 * [Goofy Racers](https://github.com/RandomMexican/Goofy-Racers) on Ursina
 * [UFG](https://github.com/RandomMexican/FightingGameTEST), Unity Game where players compete to capture the opponents flag
 * [StoreAPI](https://github.com/RandomMexican/StoreAPI), project using a tutorial about Node.js
+* [Datastructures and Algorithms App](https://github.com/MarioVquero/DSandAlgoApp), Planned to be interactable as a kind of study tool
 
 Planned
 
-* Datastructures and Algorithms GUI showcase, Planned to be interactable
 * Game Engine using C++ and C
 * Video Game mods
 
@@ -47,11 +47,15 @@ Planned
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQLITE](	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ### Game Development
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 📝 Currently Learning
 
@@ -72,8 +76,7 @@ Planned
 
 ## 📈 Fun stats
 ![stats](https://github-readme-stats.vercel.app/api?username=MarioVquero&theme=blue-green)
-
-![morestats](	https://github-readme-stats.vercel.app/api/top-langs/?username=MarioVquero&theme=blue-green)
+![morestats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioVquero&theme=blue-green)
 
 ## 👨‍💻 IDE's I use
 
